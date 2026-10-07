@@ -13,9 +13,12 @@ Amino Acid Translation
      ↓
 Protein Sequence
 
-Repository Structure
+**Repository Structure**
+
 dna2protein/
+
 ├── README.md
+
 └── dna - protein.py
 
 Usage
@@ -23,6 +26,7 @@ Usage
 Clone the repository:
 
 git clone https://github.com/tusharbioinfo/dna2protein.git
+
 cd dna2protein
 
 Run the Python script:
@@ -40,7 +44,7 @@ Output
 The program converts the DNA sequence into its corresponding amino acid sequence based on codon translation.
 
 Applications
-Basic sequence analysis
-DNA-to-protein translation
-Understanding the genetic code
+Basic sequence analysis,
+DNA-to-protein translation,
+Understanding the genetic cod,e
 Bioinformatics programming practice
