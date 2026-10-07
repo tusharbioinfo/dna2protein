@@ -1,8 +1,9 @@
-                                        # DNA to Protein Sequence Converter
+# DNA to Protein Sequence Converter
 
 A simple Python-based bioinformatics tool for converting a DNA nucleotide sequence into its corresponding protein sequence using the standard genetic code.
 
 **Workflow**
+
 DNA Sequence
      ↓
 Sequence Processing
