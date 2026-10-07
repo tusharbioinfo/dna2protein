@@ -1,4 +1,4 @@
-# DNA to Protein Sequence Converter
+                                        # DNA to Protein Sequence Converter
 
 A simple Python-based bioinformatics tool for converting a DNA nucleotide sequence into its corresponding protein sequence using the standard genetic code.
 
@@ -21,7 +21,7 @@ dna2protein/
 
 └── dna - protein.py
 
-Usage
+**Usage**
 
 Clone the repository:
 
@@ -33,18 +33,16 @@ Run the Python script:
 
 python "dna - protein.py"
 
-Input
+**Input**
 
 A DNA nucleotide sequence containing standard bases:
 
 ATGCGTACGTTAG
 
-Output
+**Output**
 
 The program converts the DNA sequence into its corresponding amino acid sequence based on codon translation.
 
-Applications
+Applications-
 Basic sequence analysis,
-DNA-to-protein translation,
-Understanding the genetic cod,e
-Bioinformatics programming practice
+DNA-to-protein translation
